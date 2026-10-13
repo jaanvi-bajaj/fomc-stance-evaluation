@@ -1,0 +1,4 @@
+pair,F1 diff,diff CI low,diff CI high,only A right,only B right,McNemar p,Holm p,significant
+S1_roberta vs S2_flash_lite,0.0658,0.0094,0.1234,86,69,0.1987,0.5962,False
+S1_roberta vs S3_flash,0.0389,-0.0118,0.0911,75,61,0.265,0.5962,False
+S2_flash_lite vs S3_flash,-0.027,-0.0617,0.0087,26,29,0.7874,0.7874,False
